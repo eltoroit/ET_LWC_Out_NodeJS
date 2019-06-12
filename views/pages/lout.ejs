@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<%- include('../partials/header.ejs', {title: 'Lightning Out'}) %>
+	<script src="<%- sfdcServerUrl %>/lightning/lightning.out.js"></script>
+</head>
+
+<body>
+	<div id="auraLightning"></div>
+	<hr />
+	<hr />
+	<hr />
+	<div id="lwcLightning"></div>
+</body>
+
+<script>
+	$Lightning.use(
+		"<%- appName %>",
+		() => {
+			$Lightning.createComponent(
+				"<%- auraCmpName %>",
+				{ msg: "It works (Aura)!" },
+				"auraLightning",
+				(cmp) => {
+					console.log("Aura component was created");
+				}
+			);
+			$Lightning.createComponent(
+				"<%- lwcCmpName %>",
+				{ msg: "It works (LWC)!" },
+				"lwcLightning",
+				(cmp) => {
+					console.log("LWC component was created");
+				}
+			);
+		},
+		"<%- lightningServerUrl %>",
+		"<%- accessToken %>"
+	);
+</script>
+
+</html>

@@ -1,0 +1,1877 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/ejs/index.d.ts": {
+        "version": "96e25a9831f8b1f5a1a82df1fe852e4ec180cd9faa5c102a1f7373981dd1d0c3",
+        "signature": "96e25a9831f8b1f5a1a82df1fe852e4ec180cd9faa5c102a1f7373981dd1d0c3"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts": {
+        "version": "0909474c73e738594b752e015ad0411825eee91669df44ebcf988ee4f2c0d38a",
+        "signature": "0909474c73e738594b752e015ad0411825eee91669df44ebcf988ee4f2c0d38a"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/assert.d.ts": {
+        "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
+        "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts": {
+        "version": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d",
+        "signature": "fe892fea1e75a442fffb4a604d7eeb451e858787a9f2f01c4e83bf12a3b5048d"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts": {
+        "version": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00",
+        "signature": "c5a3c14cb11afb48d405562e6843145caa67c60be9738f408cd7977ce30a0b00"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/cluster.d.ts": {
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/constants.d.ts": {
+        "version": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598",
+        "signature": "b952021e804dcd9cb5e5552e1ec8bf9f479b61e20da5641e2a542fe77db9a598"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts": {
+        "version": "325154b5b9b94af94b9c0cea4a051496693e6253be1abb2b6399b68331d70e46",
+        "signature": "325154b5b9b94af94b9c0cea4a051496693e6253be1abb2b6399b68331d70e46"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dgram.d.ts": {
+        "version": "b6c6861bccf209a98eeddb99bdb7bd987fb29fc52130d5d9fd2f79d3607a0a7a",
+        "signature": "b6c6861bccf209a98eeddb99bdb7bd987fb29fc52130d5d9fd2f79d3607a0a7a"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts": {
+        "version": "896cd7d58e9d832392a6e374a8f8b64f142089b4d2678a2c90fd8d1d49128677",
+        "signature": "896cd7d58e9d832392a6e374a8f8b64f142089b4d2678a2c90fd8d1d49128677"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/domain.d.ts": {
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts": {
+        "version": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c",
+        "signature": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts": {
+        "version": "92bad5d23e0d21fb6ad4354b2ca8bfe683c1d57e32daca6a88c15fff2ecb9fcd",
+        "signature": "92bad5d23e0d21fb6ad4354b2ca8bfe683c1d57e32daca6a88c15fff2ecb9fcd"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts": {
+        "version": "cc4cd9d8af7f5689b5df3c91d0fc287fafbd89e6e305183da28a6877a8aa08a8",
+        "signature": "cc4cd9d8af7f5689b5df3c91d0fc287fafbd89e6e305183da28a6877a8aa08a8"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http2.d.ts": {
+        "version": "ef535a3849d5826d70b2b341420e239e180d2d9d64045e84683b6a52a82845b5",
+        "signature": "ef535a3849d5826d70b2b341420e239e180d2d9d64045e84683b6a52a82845b5"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/https.d.ts": {
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/inspector.d.ts": {
+        "version": "8cfa78f4c052a93ac1e7accb0a78ce331dbd14f277ee0e193279ec31ce7efb25",
+        "signature": "8cfa78f4c052a93ac1e7accb0a78ce331dbd14f277ee0e193279ec31ce7efb25"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts": {
+        "version": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50",
+        "signature": "cc5fac2b9e45a6670b96fd32cb42c97e0d4a7b2ee12c87963c6fe0f55fa84f50"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/os.d.ts": {
+        "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
+        "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/path.d.ts": {
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/process.d.ts": {
+        "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
+        "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/punycode.d.ts": {
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts": {
+        "version": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e",
+        "signature": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts": {
+        "version": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c",
+        "signature": "94cf93922adcc9cb4acf11d8d71641af728de919a50ae55d8e83159afea1a42c"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/repl.d.ts": {
+        "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
+        "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts": {
+        "version": "15087156b728a1bdf46de0e1299f904c6a658af37f80851f6fe76fb21bb99b65",
+        "signature": "15087156b728a1bdf46de0e1299f904c6a658af37f80851f6fe76fb21bb99b65"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948",
+        "signature": "17e157df6125098a1a34eb4d201ee4ac03bbe97e471ab5627bb2c40fce555948"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts": {
+        "version": "af4eb6cfde4501c70e7cfb453370eb671ae51e20a3e591ddff71cdd2c190114e",
+        "signature": "af4eb6cfde4501c70e7cfb453370eb671ae51e20a3e591ddff71cdd2c190114e"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tty.d.ts": {
+        "version": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4",
+        "signature": "0fd8dac24f12d9fd1fcc275200dd1b6771072f20331a07b18f7dbcbe20f7d3f4"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts": {
+        "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
+        "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts": {
+        "version": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12",
+        "signature": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/v8.d.ts": {
+        "version": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033",
+        "signature": "6ad2dd29dbf3aea031062298e9978d4b2a1fadd0997eb9d8caaf95aaa89e7033"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts": {
+        "version": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9",
+        "signature": "f98df5ec124f441b465332271d0b083aeec815cd3c92d9249b9739e6318477a9"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402",
+        "signature": "16de20ae20cd1d948409a56b55832f3d416c66c8cb44bb8475e1e9db14d8e402"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/zlib.d.ts": {
+        "version": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9",
+        "signature": "f91189e04264b0e41ee96ff96661c3871e739b90156df2f2288da7a81019dcd9"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
+        "signature": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/range-parser/index.d.ts": {
+        "version": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b",
+        "signature": "4e88b833be14c7f384e0dcd57bb30acd799e8e34d212635d693e41a75a71164b"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts": {
+        "version": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5",
+        "signature": "0e844fd1a3d13a837b300785b632ceb2cdced5797e189183ece36a0785a453e5"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/mime/index.d.ts": {
+        "version": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6",
+        "signature": "be27a64e821a3e5af838650e4aa25805c60f057d0c37a9762c378d19d364b3e6"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/serve-static/index.d.ts": {
+        "version": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff",
+        "signature": "b27dd918d8c3f10270cadea529c69e3a9b37ce59db0852945a39068cc5c10fff"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/connect/index.d.ts": {
+        "version": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82",
+        "signature": "c3be42b83b5f57ae2f65280fa395f6d31f61304ac1a29b7b406b6a0e71da8c82"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/body-parser/index.d.ts": {
+        "version": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2",
+        "signature": "1b7919dbb6b43ff272f38f6f6522fb9f4e9e854356b2932a36aa4674f4a2fcf2"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express/index.d.ts": {
+        "version": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7",
+        "signature": "a6742e25ac12860727c22a379707e050a126c48c4dd98ddd795a3a33dd0a63c7"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts": {
+        "version": "f90aa8c6c5fc5ef55a64fbf36d4252db12d5d483a58b45b4e8a1a647bae347ce",
+        "signature": "f90aa8c6c5fc5ef55a64fbf36d4252db12d5d483a58b45b4e8a1a647bae347ce"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts": {
+        "version": "4295a5a312a05f59ee74a2774a8e5ff2ae5e8f5d6b44c632dff5570d02aacd4a",
+        "signature": "4295a5a312a05f59ee74a2774a8e5ff2ae5e8f5d6b44c632dff5570d02aacd4a"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts": {
+        "version": "c2c4f294bbdc45defee171559af6ea10b49778e7b1e04f74e089efd7019fd071",
+        "signature": "c2c4f294bbdc45defee171559af6ea10b49778e7b1e04f74e089efd7019fd071"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts": {
+        "version": "9eea9572ff319fc74288bf83654ac61e5a060859c57b3b2c6854bdd0b260227a",
+        "signature": "9eea9572ff319fc74288bf83654ac61e5a060859c57b3b2c6854bdd0b260227a"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts": {
+        "version": "ffd7e949148510a4cb403dc63e4a0642d63b0210d9f18d6fe4c2e2064174e94c",
+        "signature": "ffd7e949148510a4cb403dc63e4a0642d63b0210d9f18d6fe4c2e2064174e94c"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object-options.d.ts": {
+        "version": "e21f2c5930665c998bb05fbaa177e6ba5dd6229991e669289bac71a59efca95d",
+        "signature": "e21f2c5930665c998bb05fbaa177e6ba5dd6229991e669289bac71a59efca95d"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/create-options.d.ts": {
+        "version": "687d1228038281c214caf9351026ae1e7897654ff4055d3869573567f40c0648",
+        "signature": "687d1228038281c214caf9351026ae1e7897654ff4055d3869573567f40c0648"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts": {
+        "version": "879defc2ea2a0f476810b9388dea3172d7f46459df8a2df38e40c74ce6a593ab",
+        "signature": "879defc2ea2a0f476810b9388dea3172d7f46459df8a2df38e40c74ce6a593ab"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/quick-action.d.ts": {
+        "version": "86f9fbee70e361ce11309ec40232a2a2bf575fea347ed63d38f7cb1af22b9026",
+        "signature": "86f9fbee70e361ce11309ec40232a2a2bf575fea347ed63d38f7cb1af22b9026"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts": {
+        "version": "1e1098e62a1669cae7312924e3447b4a1f6957f0cb0c48ef8537e9a8c0103e66",
+        "signature": "1e1098e62a1669cae7312924e3447b4a1f6957f0cb0c48ef8537e9a8c0103e66"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts": {
+        "version": "0cfdc1e5882685c6fc1c9fc1ed411109eae90e8fea9c814587f8ae564216f988",
+        "signature": "0cfdc1e5882685c6fc1c9fc1ed411109eae90e8fea9c814587f8ae564216f988"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts": {
+        "version": "f662c0beb9b012a89abf9992df23eac3101b4b5c97cdff87514790c83d98d36b",
+        "signature": "f662c0beb9b012a89abf9992df23eac3101b4b5c97cdff87514790c83d98d36b"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts": {
+        "version": "384cc35df9c0639c1a30a689e5261bffdecc0f6e1796cdd81f485ccbef9f1142",
+        "signature": "384cc35df9c0639c1a30a689e5261bffdecc0f6e1796cdd81f485ccbef9f1142"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts": {
+        "version": "16063b35927d9b1efbf94cb3f831728c1bcb62eb4f80d17dd8151c247566fa87",
+        "signature": "16063b35927d9b1efbf94cb3f831728c1bcb62eb4f80d17dd8151c247566fa87"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts": {
+        "version": "2d570378b492392ec582e99c70b5f9a87c95166e28490fb5b768c20a6c3a5c5e",
+        "signature": "2d570378b492392ec582e99c70b5f9a87c95166e28490fb5b768c20a6c3a5c5e"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts": {
+        "version": "a97927b6c4a09b84fb9fc81003ccb9d9da59f98f181710493e65eda5679186da",
+        "signature": "a97927b6c4a09b84fb9fc81003ccb9d9da59f98f181710493e65eda5679186da"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/http-api.d.ts": {
+        "version": "56c948eb116a0a3bd9085aa067a1e012031a1bd4bf5bc5ef19df389c8257d0b7",
+        "signature": "56c948eb116a0a3bd9085aa067a1e012031a1bd4bf5bc5ef19df389c8257d0b7"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts": {
+        "version": "5e1e656e8d08174b6a1fc743965e34b24694f5bc52580e462fac94ba6e2df274",
+        "signature": "5e1e656e8d08174b6a1fc743965e34b24694f5bc52580e462fac94ba6e2df274"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts": {
+        "version": "590ffffc49d3b554127c9103a7471ee359557daae05b754753df14d44e13c25d",
+        "signature": "590ffffc49d3b554127c9103a7471ee359557daae05b754753df14d44e13c25d"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts": {
+        "version": "60469513568d434ae4973616c63faf4595e6f86a564d9b9263c4d767f2445681",
+        "signature": "60469513568d434ae4973616c63faf4595e6f86a564d9b9263c4d767f2445681"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts": {
+        "version": "149cd423c03fbf662c33ffb8f6d2926fd69c0591d8772d2fb17ce9afbc62982a",
+        "signature": "149cd423c03fbf662c33ffb8f6d2926fd69c0591d8772d2fb17ce9afbc62982a"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts": {
+        "version": "8f779c31f70e83f625d2596d2501dd28b82bee5006329124baa92afcfd7d8f0e",
+        "signature": "8f779c31f70e83f625d2596d2501dd28b82bee5006329124baa92afcfd7d8f0e"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts": {
+        "version": "557e49fb7714b0fc0a4c518062338973bde7548e514e27d6ad6ddebf2a1d836a",
+        "signature": "557e49fb7714b0fc0a4c518062338973bde7548e514e27d6ad6ddebf2a1d836a"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/date-enum.d.ts": {
+        "version": "a8e8ecfe9d2bee746a0d4b4e24996d7a1cdefc1472c8957c14ccf44fa4e5766e",
+        "signature": "a8e8ecfe9d2bee746a0d4b4e24996d7a1cdefc1472c8957c14ccf44fa4e5766e"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/oauth2.d.ts": {
+        "version": "cb187cc474ce58a1357e1e1d982813351df2d2b25da8bdfbab6a5f8860a21895",
+        "signature": "cb187cc474ce58a1357e1e1d982813351df2d2b25da8bdfbab6a5f8860a21895"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/promise.d.ts": {
+        "version": "3f6cf478c283467790eb1acb472bb4f2fe1eaa8fd4804a7f109a71f38c58051d",
+        "signature": "3f6cf478c283467790eb1acb472bb4f2fe1eaa8fd4804a7f109a71f38c58051d"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/index.d.ts": {
+        "version": "71c67f7a34db1fcd7195e47ec2908b1350c3a492727b2049e468acc1614c17e1",
+        "signature": "71c67f7a34db1fcd7195e47ec2908b1350c3a492727b2049e468acc1614c17e1"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/app/lib/salesforce.ts": {
+        "version": "2a0ad4ece81872f4ddef2d37df5197082598b2979aa07dc9b6615c099f828a8e",
+        "signature": "345a4bf0fc2bc4eb4eaae06842e99f2696741e7b787f857fb003bb35e210fe6b"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/app/app.ts": {
+        "version": "9aaa539eb1a59560eadadf41dd3213783fa138a120308cb8542949d1bbc39771",
+        "signature": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-bom/index.d.ts": {
+        "version": "4006c872e38a2c4e09c593bc0cdd32b7b4f5c4843910bea0def631c483fff6c5",
+        "signature": "4006c872e38a2c4e09c593bc0cdd32b7b4f5c4843910bea0def631c483fff6c5"
+      },
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-json-comments/index.d.ts": {
+        "version": "ab6aa3a65d473871ee093e3b7b71ed0f9c69e07d1d4295f45c9efd91a771241d",
+        "signature": "ab6aa3a65d473871ee093e3b7b71ed0f9c69e07d1d4295f45c9efd91a771241d"
+      }
+    },
+    "options": {
+      "incremental": true,
+      "target": 1,
+      "module": 1,
+      "sourceMap": true,
+      "outDir": "/Users/aperez/Desktop/My_Docs/PROJECTS/2019/06-JUN/LightningOut/NodeJs/Demo02/build",
+      "strict": true,
+      "esModuleInterop": true,
+      "project": "/Users/aperez/Desktop/My_Docs/PROJECTS/2019/06-JUN/LightningOut/NodeJs/Demo02/tsconfig.json",
+      "configFilePath": "/Users/aperez/Desktop/My_Docs/PROJECTS/2019/06-JUN/LightningOut/NodeJs/Demo02/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/ejs/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/assert.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/cluster.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/console.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/constants.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dgram.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/domain.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http2.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/https.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/inspector.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/module.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/os.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/path.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/process.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/punycode.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/repl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/timers.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/trace_events.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tty.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/v8.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/zlib.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/base.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/assert.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/cluster.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/console.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/constants.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dgram.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/domain.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http2.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/https.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/inspector.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/module.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/os.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/path.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/process.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/punycode.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/repl.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/string_decoder.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/timers.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/trace_events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tty.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/v8.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/worker_threads.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/zlib.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/base.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/range-parser/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/range-parser/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/mime/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/serve-static/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/mime/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/connect/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/body-parser/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/connect/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/body-parser/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/serve-static/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object-options.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/create-options.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object-options.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/quick-action.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/create-options.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/quick-action.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/http-api.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/http-api.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/date-enum.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/oauth2.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/promise.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/date-enum.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/oauth2.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/promise.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/app/lib/salesforce.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/app/app.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/ejs/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/path.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/body-parser/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/app/lib/salesforce.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-bom/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-json-comments/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es5.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.dom.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.scripthost.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/ejs/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/assert.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/cluster.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/console.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/constants.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dgram.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/domain.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http2.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/https.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/inspector.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/module.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/os.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/path.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/perf_hooks.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/process.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/punycode.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/repl.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/string_decoder.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/timers.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/trace_events.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tty.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/v8.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/worker_threads.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/zlib.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/base.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/assert.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/cluster.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/console.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/constants.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dgram.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/domain.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http2.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/https.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/inspector.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/module.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/os.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/path.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/perf_hooks.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/process.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/punycode.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/repl.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/string_decoder.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/timers.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/trace_events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tty.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/v8.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/worker_threads.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/zlib.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/base.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/globals.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/range-parser/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/range-parser/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/mime/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/serve-static/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/mime/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/connect/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/body-parser/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/connect/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/body-parser/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/serve-static/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object-options.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/create-options.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object-options.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/quick-action.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/create-options.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/quick-action.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/http-api.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/index.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/http-api.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/date-enum.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/oauth2.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/promise.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/date-enum.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/oauth2.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/promise.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-bom/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-json-comments/index.d.ts": [
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+        "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.dom.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/ejs/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/globals.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/assert.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/async_hooks.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/buffer.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/child_process.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/cluster.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/console.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/constants.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/crypto.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dgram.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/dns.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/domain.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/events.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/fs.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/http2.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/https.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/inspector.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/module.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/net.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/os.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/path.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/perf_hooks.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/process.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/punycode.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/querystring.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/readline.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/repl.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/stream.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/string_decoder.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/timers.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tls.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/trace_events.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/tty.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/url.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/util.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/v8.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/vm.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/worker_threads.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/zlib.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/base.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/util.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/globals.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/node/ts3.2/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/range-parser/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express-serve-static-core/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/mime/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/serve-static/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/connect/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/body-parser/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/express/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/describe-result.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-id.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record-result.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/query.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/record.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object-options.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/create-options.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/batch.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/quick-action.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/salesforce-object.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/chatter.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/metadata.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/apex.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/job.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/bulk.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/cache.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/http-api.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/limits-info.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/connection.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/api/analytics.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/topic.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/streaming.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/channel.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/date-enum.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/oauth2.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/promise.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/jsforce/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/app/lib/salesforce.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/app/app.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-bom/index.d.ts",
+      "/users/aperez/desktop/my_docs/projects/2019/06-jun/lightningout/nodejs/demo02/node_modules/@types/strip-json-comments/index.d.ts"
+    ]
+  },
+  "version": "3.5.1"
+}

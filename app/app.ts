@@ -27,14 +27,13 @@ app.use(express.static(path.join(__dirname + '/../', 'public')));
 app.get('/', (req, res, next) => {
 	Salesforce.userLogin_UNPW()
 		.then(loginResponse => {
-			res.render('pages/lout', {
-				appName: "c:AuraApp",
-				auraCmpName: "c:AuraCmp",
-				lwcCmpName: "c:lwcCmp",
-				sfdcServerUrl: loginResponse.sfdcServerUrl,
-				lightningServerUrl: loginResponse.lightningServerUrl,
-				accessToken: loginResponse.accessToken
-			});
+			res.render('pages/lout',
+				Object.assign(loginResponse, {
+					appName: "c:AuraApp",
+					auraCmpName: "c:AuraCmp",
+					lwcCmpName: "c:lwcCmp"
+				})
+			);
 		})
 		.catch(err => {
 			return next(err);

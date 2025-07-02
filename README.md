@@ -1,5 +1,7 @@
 # Demo: Lightning Out + Visualforce/Node.js + LWC/Aura (Node.js Server)
 
+Please read this Medium article: https://eltoro.it/lightning-web-components-support-lightning-out-5a79c513302f
+
 # What is this?
 This is one of two repos that will help you get started with **Lightning Out** in Visualforce and Node.js application to render **Lightning Components** both **Aura** and **LWC**.
 
